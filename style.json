@@ -5,7 +5,7 @@
     "forest": {
       "type": "vector", 
         "tiles": [
-        "https://wata909.github.io/NationalForest08_mvt/mvt/{z}/{x}/{y}.pbf"
+        "https://wata909.github.io/NationalForest01_mvt/mvt/{z}/{x}/{y}.pbf"
       ],
       "minzoom": 0,
       "maxzoom": 12,
